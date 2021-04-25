@@ -1,0 +1,22 @@
+{
+  "name": "instagramautomationlikes",
+  "version": "1.0.0",
+  "description": "Web Automation using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatsuvaksi/InstagramAutomationLikes.git"
+  },
+  "author": "vatsuvaksi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vatsuvaksi/InstagramAutomationLikes/issues"
+  },
+  "homepage": "https://github.com/vatsuvaksi/InstagramAutomationLikes#readme",
+  "dependencies": {
+    "puppeteer": "^9.0.0"
+  }
+}
